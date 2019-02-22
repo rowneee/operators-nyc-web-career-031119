@@ -8,6 +8,8 @@ def unsafe?(speed)
 end
 
 unsafe(65)
+unsafe(35)
+unsafe(45)
 
 
 def not_safe?(speed)
